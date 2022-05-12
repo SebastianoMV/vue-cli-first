@@ -8,6 +8,8 @@ export default {
 }
 </script>
 
-<style lang="scss">
- 
+<style scoped>
+ h1{
+   text-align: center;
+ }
 </style>
